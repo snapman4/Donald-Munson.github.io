@@ -70,8 +70,9 @@ body {
 }
 li {
     float: left;
-    border-right: black 2px solid ;
-
+    /*border-right: black 1px solid;*/
+    /*border-left: black .5px solid;*/
+    /*border: black 1px solid;*/
 }
 
 ul {
